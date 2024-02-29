@@ -80,6 +80,14 @@
     },
     {
       "chainId": 1,
+      "address": "0x01995786f1435743C42B7f2276C496a610B58612",
+      "name": "SanDianZhong",
+      "symbol": "sdz",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543"
+    },
+    {
+      "chainId": 1,
       "address": "0xEd04915c23f00A313a544955524EB7DBD823143d",
       "name": "Alchemy Pay",
       "symbol": "ACH",
